@@ -14,8 +14,12 @@ a:hover {
 	color: #C59353;
 }
 
-h1, h2, h3 {
+h1, h2 {
 	color: #EEB211;
+}
+
+h3 {
+	color: #FFFFFF;
 }
 
 h1 a, h1 a:visited, h1 a:active {
