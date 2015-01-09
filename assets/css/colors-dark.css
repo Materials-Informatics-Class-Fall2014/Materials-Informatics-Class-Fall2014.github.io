@@ -16,6 +16,7 @@ h3 {
 }
 
 h1 a, h1 a:visited, h1 a:active {
+	text-decoration: none;
 	color: #EEB211;
 }
 
@@ -39,6 +40,7 @@ blockquote {
 }
 
 #footer {
+	color: #EEB211;
 	border-color: #073642;
 }
 
