@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Multivariate Polynomial Regression"
-date:   2014-07-29 22:30:25
+title:  "Quantifying the Structure-Property Relationship in P3HT Thin Film Transistors"
+date:   2015-01-01 00:00:00
 categories: main
-external_url:
+external-url: http://materials-informatics-class-fall2014.github.io/MIC-OFET-Processing/
 ---
+
 
