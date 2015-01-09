@@ -5,13 +5,6 @@ html, body {
 
 a, a:visited, a:active {
 	color: #FFFFFF;
-	border-color: #073642;
-}
-
-a:hover {
-	background-color: #073642;
-	border-color: #073642;
-	color: #C59353;
 }
 
 h1, h2 {
