@@ -1,12 +1,12 @@
-name:  Ahmet Cecen's Research MINED@Gatech
+name:  Materials Informatics Class Fall 2014 Project Index
 markdown: kramdown
 input: GFM
-url: http://ahmetcecen.github.io/
-description: An attempt to track and publish my research progress as a PHD student. 
+url: http://materials-informatics-class-fall2014.github.io/
+description: 
 
 
 permalink: /:year/:month/:day/:title/
-paginate: 8
+paginate: 10
 pygments: true
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

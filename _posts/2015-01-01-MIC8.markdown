@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multivariate Polynomial Regression"
+date:   2014-07-29 22:30:25
+categories: main
+external_url:
+---
+
