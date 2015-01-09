@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Multivariate Polynomial Regression"
-date:   2014-07-29 22:30:25
+title:  "Data Science Solutions to XRD"
+date:   2015-01-01 00:00:00
 categories: main
-external_url:
+external-url: http://materials-informatics-class-fall2014.github.io/MIC-XRD-Polymer/
 ---
 

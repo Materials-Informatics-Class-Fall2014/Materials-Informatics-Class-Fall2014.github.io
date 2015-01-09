@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Structure-Property Linkage of Packed Soil Particles"
-date:   2014-07-29 22:30:25
+date:   2015-01-01 00:00:00
 categories: main
 external-url: http://materials-informatics-class-fall2014.github.io/MIC-Packed-Particles
 ---
