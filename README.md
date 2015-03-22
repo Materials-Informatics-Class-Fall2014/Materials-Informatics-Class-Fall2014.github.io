@@ -1,4 +1,4 @@
-# Materials Informatics Class Fall 2014 Publication Inde #
+# Materials Informatics Class Fall 2014 Publication Index #
 
 
 
