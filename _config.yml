@@ -1,10 +1,10 @@
 # Site settings
-title: Materials Informatics Class Fall 2015 Project Index
+title: Materials Informatics Class Fall 2014 Project Index
 email: your-email@domain.com
 description: ""
 baseurl: "" 
-url: "http://MaterialsInformaticsClassFall2015.github.io/"
-github_username: materials-informatics-class-fall2015
+url: "http://MaterialsInformaticsClassFall2014.github.io/"
+github_username: materials-informatics-class-fall2014
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
