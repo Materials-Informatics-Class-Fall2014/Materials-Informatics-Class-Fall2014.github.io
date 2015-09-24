@@ -4,7 +4,7 @@ title:  "Data Science Solutions to XRD"
 date:   2015-01-01 00:00:00
 categories: project
 author: Materials-Informatics-Class-Fall2014
-image: http://img.youtube.com/vi/rwyDDep-yyg/0.jpg
+image: http://dunand.northwestern.edu/research/images/bio/battery-pattern.png
 link: http://materials-informatics-class-fall2014.github.io/MIC-XRD-Polymer/
 ---
-Our dataset consisted of X-ray scattering intensity images from 12 different samples of polyethylene. While each of the samples were being strain, the stress in the sample was measured and an X-scattering intensity image was taken roughly every four seconds. The twelve samples varied systematically between difference in densities, processing conditions, and thickness.
+Our dataset consisted of X-ray scattering intensity images from 12 different samples of polyethylene under different strain conditions. The twelve samples varied systematically between difference in densities, processing conditions, and thickness.
