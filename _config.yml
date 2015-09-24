@@ -1,12 +1,15 @@
-name:  Materials Informatics Class
+# Site settings
+title: Materials Informatics Class Fall 2015 Project Index
+email: your-email@domain.com
+description: ""
+baseurl: "" 
+url: "http://MaterialsInformaticsClassFall2015.github.io/"
+github_username: materials-informatics-class-fall2015
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+# Build settings
 markdown: kramdown
-input: GFM
-url: http://materialengineering.github.io/
-description:  Fall 2014 Class Project Publication Index
-
-
-permalink: /:year/:month/:day/:title/
-paginate: 10
-pygments: true
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
